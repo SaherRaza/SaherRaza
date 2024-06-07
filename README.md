@@ -1,4 +1,4 @@
-![MasterHead](https://www.websoptimization.com/external/upload/framework-banner/desktop/hire-react-native-mobile-app-programmer-india.jpg)
+
 <h1 align="center">Hi 👋, I'm Saher Raza</h1>
 <h3 align="center">A passionate React Native developer from Australia, Sydney</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
