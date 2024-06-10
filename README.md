@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **personal project**
 
-- 🤝 I’m looking for help with **React Native Projects**
+- 🤝 I’m looking for **React Native Job Role**
 
 - 📫 How to reach me **https://www.linkedin.com/in/saher-raza-b13790147/**
 
